@@ -1,2 +1,2 @@
 # shorts-notice
-fiver req
+oauth https://www.youtube.com/watch?v=G4vaYKLzdBM
